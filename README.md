@@ -32,13 +32,13 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 <details>
     <summary>Biblioteca de Jogos (Clique Aqui para Expandir)</summary>
     <img src="https://i.imgur.com/P9zonqm.png" alt="j1">
-    <img src="https://i.imgur.com/xZQkl5k.png" alt="j2">
+    <img src="" alt="j2">
     <img src="https://i.imgur.com/GAArDF5.png" alt="j3">
 </details>
 
 <p align="center">
     <a href="https://osu.ppy.sh/users/13374872"><img width="62px" alt="osu!" title="osu!" src="https://i.imgur.com/ojztpA8.png">
-    <a href="https://steamcommunity.com/id/ntlxiin/"><img width="62px" alt="steam" title="steam" src="https://i.imgur.com/FMdnTXp.png">
+    <a href="https://steamcommunity.com/id/ntlxiin/"><img width="62px" alt="steam" title="steam" src="https://i.imgur.com/xZQkl5k.png">
     <a href="https://linktr.ee/ntlxiin"><img width="62px" alt="linktree" title="linktree" src="https://i.imgur.com/Uxw28Hn.png">
 </p>
 
