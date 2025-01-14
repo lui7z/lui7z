@@ -32,7 +32,7 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 <details>
     <summary>Biblioteca de Jogos (Clique Aqui para Expandir)</summary>
     <img src="https://i.imgur.com/P9zonqm.png" alt="j1">
-    <img src="https://i.imgur.com/p888lur.png" alt="j2">
+    <img src="https://i.imgur.com/xZQkl5k.png" alt="j2">
     <img src="https://i.imgur.com/GAArDF5.png" alt="j3">
 </details>
 
