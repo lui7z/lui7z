@@ -31,9 +31,9 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 **Bom, se eu não tiver esquecido nada, abaixo tá tudo que eu já joguei/jogo, se tiver algo em comum, simbora jogá!**
 <details>
     <summary>Biblioteca de Jogos (Clique Aqui para Expandir)</summary>
-    <img src="https://i.imgur.com/YHs8y9H" alt="j1">
-    <img src="" alt="j2">
-    <img src="https://i.imgur.com/GAArDF5.png" alt="j3">
+    <img src="https://i.imgur.com/YHs8y9H.png" alt="j1">
+    <img src="https://i.imgur.com/oeKc429.png" alt="j2">
+    <img src="https://i.imgur.com/q6GOOgF.png" alt="j3">
 </details>
 
 <p align="center">
