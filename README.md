@@ -36,12 +36,12 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
     <img src="https://i.imgur.com/q6GOOgF.png" alt="j3">
 </details>
 
-<p align="center">
+<div align="center">
 
-| <a href="https://osu.ppy.sh/users/13374872"><img src="https://i.imgur.com/ojztpA8.png" width="62px" alt="osu!"/></a> | <a href="https://steamcommunity.com/id/ntlxiin/"><img src="https://i.imgur.com/xZQkl5k.png" width="62px" alt="steam"/></a> | <a href="https://linktr.ee/ntlxiin"><img src="https://i.imgur.com/Uxw28Hn.png" width="62px" alt="linktree"/></a> |
-|:--:|:--:||:--:|
+| [<img src="https://i.imgur.com/ojztpA8.png" width="62px" alt="osu!">](https://osu.ppy.sh/users/13374872) | [<img src="https://i.imgur.com/xZQkl5k.png" width="62px" alt="steam">](https://steamcommunity.com/id/ntlxiin/) | [<img src="https://i.imgur.com/Uxw28Hn.png" width="62px" alt="linktree">](https://linktr.ee/ntlxiin) |
+|:--:|:--:|:--:|
 | Osu! | Steam | Linktr.ee |
 
-</p>
+</div>
 
 ---
