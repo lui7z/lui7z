@@ -30,7 +30,6 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 
 **Bom, se eu não tiver esquecido nada, abaixo tá tudo que eu já joguei/jogo, se tiver algo em comum, simbora jogá!**
 <details>
-<blockquote class="imgur-embed-pub" lang="en" data-id="YHs8y9H" data-context="false" ><a href="//imgur.com/YHs8y9H"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
     <summary>Biblioteca de Jogos (Clique Aqui para Expandir)</summary>
     <img src="https://i.imgur.com/YHs8y9H.png" alt="j1">
     <img src="https://i.imgur.com/oeKc429.png" alt="j2">
