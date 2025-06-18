@@ -34,13 +34,7 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 
 🈯 - Assisto bastante animes também, mas atualmente eu dei uma parada pois o tempo livre tá sendo dedicado a jogatina 😅
 
-**Bom, abaixo tá tudo que eu já joguei/jogo além dos meus Perfis em outros lugares, se tiver algo em comum, simbora jogá!**
-<details>
-    <summary>Biblioteca de Jogos (Clique Aqui para Expandir)</summary>
-    <img src="https://i.imgur.com/YHs8y9H.png" alt="j1">
-    <img src="https://i.imgur.com/oeKc429.png" alt="j2">
-    <img src="https://i.imgur.com/q6GOOgF.png" alt="j3">
-</details>
+**Bom, abaixo segue meus Perfis em outros lugares, no Linktr.ee tem todos os meus Joguinhos, se tiver algo em comum, simbora jogá!**
 
 <div align="center">
 
