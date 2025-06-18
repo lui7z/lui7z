@@ -2,7 +2,7 @@
 
 **`Futuro Desenvolvedor Front-End`**  
 
-Me chamo Luiz, 19 anos, atualmente cursando "Técnico em Informática para Internet"<br>
+Me chamo Luiz, 20 anos, atualmente cursando "Técnico em Informática para Internet"<br>
 Este curso tem como pontos chaves fazer com que eu esteja apto para:
 - Desenvolver serviços web, tais como aplicações e sites
 - Codificação de Front e Back-end
