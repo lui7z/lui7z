@@ -26,7 +26,7 @@ Este curso tem como pontos chaves fazer com que eu esteja apto para:
 
 ---
 
-**Deixando a etiqueta de lado e falando um pouco sobre meus hobbies...**
+**Falando um pouco sobre meus hobbies...**
 
 🥁 - Tenho uma paixão Enorme por Bateria, atualmente estou juntando para uma, no momento certo eu terei um novo hobbie.<br>
 
